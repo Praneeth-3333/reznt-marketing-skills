@@ -1,14 +1,12 @@
 # Reznt Marketing Skills Library
 
-A collection of reusable, individually invokable Markdown skills for the Reznt marketing team.
+A collection of **30 reusable, individually invokable Markdown skills** for the Reznt marketing team, plus shared foundation documents.
 
-> **Package status:** The full 30-skill package is available as a ZIP from the project owner. This repository README describes the library; the skill files themselves still need to be uploaded.
+## What's included
 
-## What's included in the package
-
-- **30 reusable skills** across marketing research, acquisition, content and brand, product GTM, growth and revenue, and operations
-- Foundation docs: Reznt brand brief, research standards, research log template, output template, and marketing metrics glossary
-- `MANIFEST.json` to inventory the package
+- **30 skills** across strategy and research, acquisition, content and brand, product go-to-market, growth and revenue, and marketing operations.
+- Foundation references and templates: Reznt brand brief, research standards, research log template, output template, and marketing metrics glossary.
+- `MANIFEST.json` for a package inventory.
 
 ## Skill areas
 
@@ -24,12 +22,12 @@ A collection of reusable, individually invokable Markdown skills for the Reznt m
 
 ## How to use
 
-1. Copy a skill's `SKILL.md` into your AI platform's skills directory.
-2. Invoke the skill by its folder or skill name.
-3. Provide the task, target audience/market, available context, and desired output.
-4. Follow the research standards and verify current product, pricing, policy, and competitor claims before publishing.
+1. Open a skill folder and read its `SKILL.md`.
+2. Add that skill to your AI platform's skills directory or registry.
+3. Invoke the skill by its name and provide the task, target audience/market, available context, and desired output.
+4. Use the shared research standards and verify current product, pricing, policy, and competitor claims before publishing.
 
-## Important research rule
+## Research discipline
 
 Treat product features, pricing, integrations, policy requirements, and competitor claims as facts to verify against current authoritative sources. Distinguish evidence from assumptions and label uncertainty. Do not publish unverified claims.
 
@@ -39,4 +37,4 @@ Reznt website: https://reznt.com/
 
 ## License and reuse
 
-Internal and public reuse terms should be defined by the repository owner before wider distribution. No third-party brand assets or claims should be treated as endorsed by Reznt unless independently confirmed.
+Repository owner should define reuse and licensing terms before wider distribution. No third-party brand assets or claims should be treated as endorsed by Reznt unless independently confirmed.
