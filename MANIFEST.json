@@ -3,7 +3,6 @@
   "brand_source": "https://reznt.com/",
   "individual_skill_count": 30,
   "foundation_document_count": 5,
-  "package_archive": "Reznt_Marketing_Skills.zip",
   "skill_areas": [
     "Strategy and research",
     "Acquisition",
@@ -12,5 +11,5 @@
     "Growth and revenue",
     "Marketing operations"
   ],
-  "status": "The ZIP package is prepared locally; upload the package and extracted Markdown files to this repository to complete publication."
+  "status": "Published as individual Markdown files in this public repository."
 }
